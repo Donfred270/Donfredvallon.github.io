@@ -3,3 +3,4 @@
 vocabulaire
 prononciation
 accent
+## ajouter un fichier .gitignore
